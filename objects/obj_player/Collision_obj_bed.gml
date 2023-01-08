@@ -1,0 +1,1 @@
+scr_player_update_last_bed();

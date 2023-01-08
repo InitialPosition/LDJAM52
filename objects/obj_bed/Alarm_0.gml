@@ -1,0 +1,1 @@
+scr_bed_call_nurse();

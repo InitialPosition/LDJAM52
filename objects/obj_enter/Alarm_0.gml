@@ -1,0 +1,7 @@
+/// @description 
+
+
+
+
+
+room_goto(rm_hospital3)
