@@ -25,6 +25,7 @@
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2BD2DE9F_1","properties":[],"isDnd":false,"objectId":{"name":"obj_jukebox","path":"objects/obj_jukebox/obj_jukebox.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":48.0,"y":0.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_333206AB","properties":[],"isDnd":false,"objectId":{"name":"obj_enter","path":"objects/obj_enter/obj_enter.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2A82D21F","properties":[],"isDnd":false,"objectId":{"name":"obj_post_compo_watermark","path":"objects/obj_post_compo_watermark/obj_post_compo_watermark.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":112.0,},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":16,"gridY":16,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Assets_1","assets":[
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_768D1A28","spriteId":{"name":"title","path":"sprites/title/title.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":0.49999997,"scaleY":0.48888892,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,},
@@ -40,6 +41,7 @@
   "instanceCreationOrder": [
     {"name":"inst_2BD2DE9F_1","path":"rooms/rm_mainMenu/rm_mainMenu.yy",},
     {"name":"inst_333206AB","path":"rooms/rm_mainMenu/rm_mainMenu.yy",},
+    {"name":"inst_2A82D21F","path":"rooms/rm_mainMenu/rm_mainMenu.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

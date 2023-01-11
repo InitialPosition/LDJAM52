@@ -28,10 +28,10 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"24f6f900-5910-41ce-8801-38b8037a7300",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e4be3ba7-af92-47df-93fd-99a053ac9010",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b23d176d-e7c1-4419-9ba9-010bdec53157",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c66ea336-c37e-4328-b660-305618094a8d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a4a0b724-ab30-4879-be3b-9179eda52fa5",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b946ea21-057c-47dc-903d-b9362a709b9e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"548d4f3b-8d03-4d2d-8e2f-59545dbbc8c5",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c8cb86d9-02fa-4a5b-b33b-88725f1a12ef",},
   ],
   "sequence": {
     "resourceType": "GMSequence",
@@ -39,7 +39,7 @@
     "name": "spr_nurse_suspicious",
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 7.0,
+    "playbackSpeed": 10.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
@@ -48,10 +48,10 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"e0f6174d-e7de-4405-ab31-8a91e7fad230","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"24f6f900-5910-41ce-8801-38b8037a7300","path":"sprites/spr_nurse_suspicious/spr_nurse_suspicious.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"cd1022fc-3658-4e86-bbaf-8b78c6727027","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e4be3ba7-af92-47df-93fd-99a053ac9010","path":"sprites/spr_nurse_suspicious/spr_nurse_suspicious.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"e2fb2cad-0971-479b-87c0-59b46c8ede78","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b23d176d-e7c1-4419-9ba9-010bdec53157","path":"sprites/spr_nurse_suspicious/spr_nurse_suspicious.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"05b00f20-e626-4eee-8039-c9308a3c00b3","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c66ea336-c37e-4328-b660-305618094a8d","path":"sprites/spr_nurse_suspicious/spr_nurse_suspicious.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"bc54f701-541e-418d-b401-337afee7d8e5","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a4a0b724-ab30-4879-be3b-9179eda52fa5","path":"sprites/spr_nurse_suspicious/spr_nurse_suspicious.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"e68fd141-d2d0-4385-833d-55f09f873dc1","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b946ea21-057c-47dc-903d-b9362a709b9e","path":"sprites/spr_nurse_suspicious/spr_nurse_suspicious.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"0a0e364f-487c-4bab-8be3-9c7678e3c4f3","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"548d4f3b-8d03-4d2d-8e2f-59545dbbc8c5","path":"sprites/spr_nurse_suspicious/spr_nurse_suspicious.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"451047a4-3b05-41e4-aa6f-9e5f1bda570c","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c8cb86d9-02fa-4a5b-b33b-88725f1a12ef","path":"sprites/spr_nurse_suspicious/spr_nurse_suspicious.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
@@ -70,7 +70,7 @@
     "eventStubScript": null,
   },
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f48d5afa-52f0-4334-8bc6-aac65d3a86ec","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"57a40c43-3bdc-4574-bea4-39c6daa038e5","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {

@@ -7,7 +7,7 @@ function scr_game_manager_init() {
 	
 	blood_level_max = 20;
 	blood_level = blood_level_max;
-	blood_drain_rate = 0.005;
+	blood_drain_rate = 0.007;
 	
 	time = 0;
 	time_increment = 60 * 4;

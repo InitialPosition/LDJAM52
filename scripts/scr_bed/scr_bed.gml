@@ -38,7 +38,7 @@ function scr_bed_harvest() {
 		alarm[0] = -1;
 		
 		// give player blood
-		obj_game_manager.blood_level += irandom_range(4, 6);
+		obj_game_manager.blood_level += irandom_range(2, 3);
 		if obj_game_manager.blood_level > obj_game_manager.blood_level_max {
 			obj_game_manager.blood_level = obj_game_manager.blood_level_max;
 		}
